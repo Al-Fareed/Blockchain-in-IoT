@@ -1,0 +1,15 @@
+A framework of blockchain-based Internet of Things (IoT ) data management is defined in this standard. It identifies the common building blocks of the framework that blockchain enabled during IoT data lifecycle including data acquisition, processing, storage, analyzing, usage/exchange and obsoletion, and the interactions among these building blocks.
+Scope:
+This standard is applicable to business scenarios that employ data management system with data collected from Internet of Things (IoT ) devices for internal business decision making, data sharing and/or data trade with external parties. This standard also serves as a framework guide for establishing data management with blockchain and IoT technologies
+Purpose:
+This standard defines a framework of blockchain-based Internet of Things (IoT ) data management. It identifies the common building blocks of the framework that blockchain enabled during IoT data lifecycle including data acquisition, processing, storage, analyzing, usage/exchange and obsoletion, and the interactions among these building blocks.
+
+/////////////////////////////////
+
+The Internet of Things (IoT) bears unprecedented security and scalability challenges due to the magnitude of data produced and exchanged by IoT devices and platforms. Some of those challenges are currently being addressed by coupling IoT applications with blockchains. However, current blockchain-backed IoT systems simply use the blockchain to store access control policies, thereby underutilizing the power of blockchain technology. In this paper, we propose a new framework named Sash that couples IoT platforms with blockchain that provides a number of advantages compared to state of the art. In Sash, the blockchain is used to store access control policies and take access control decisions. Therefore, both changes to policies and access requests are correctly enforced and publicly auditable. Further, we devise a "data marketplace" by leveraging the ability of blockchains to handle financial transaction and providing "by design" remuneration to data producers. Finally, we exploit a special flavor of identity-based encryption to cater for cryptography-enforced access control while minimizing the overhead to distribute decryption keys. We prototype Sash by using the FIWARE open source IoT platform and the Hyperledger Fabric framework as the blockchain back-end. We also evaluate the performance of our prototype and show that it incurs tolerable overhead in realistic deployment settings.
+
+/////////////////////////////
+
+The three benefits of blockchain for IoT, according to IBM: building trust, cost reduction and the acceleration of transactions.
+
+/////////////////////////////

@@ -1,0 +1,18 @@
+Blockchain in IoT
+
+Abstract:
+
+
+Blockchain is a cutting-edge technology that functions as a decentralised, distributed, public, and real-time ledger to hold transactions among Internet of Things (IoT) nodes. Every block in a blockchain is connected to the blocks before it. Every block contains its data, the previous block's hash, and the cryptographic hash code. The fundamental units utilised to transport data between Internet of Things nodes are transactions in the blockchain. The Internet of Things nodes are various forms of physical, intelligent devices with built-in sensors, actuators, and software that can communicate with other IoT nodes. The function of blockchain in the Internet of Things is to offer a method for processing safe data records through IoT nodes. Blockchain is a safe technology that is accessible to everyone. This type of technology is necessary for IoT to enable secure communication among IoT nodes in heterogeneous environments. Blockchain is being utilised within IoT to handle device settings, store sensor data, and enable micropayments due to its distributed and decentralised organisational structure. Anyone who is authorised to communicate within the IoT could track and investigate the transactions in the blockchain. IoT with blockchain technology could enhance communication security through the concept of blockchain as a service for IoT by implementing it.
+
+Introduction:
+
+Iot is a system of inter related devices connected to the innternet to share/transfer data with other devices ( where device can be general device or sensing device ) and Blockchain is a shared, immutable ledger that facilitates the process of recording transactions and tracking assets in a business network. An asset can be tangible (a house, car, cash, land) or intangible (intellectual property, patents, copyrights, branding).
+
+Using blockchain to store IoT data would add another layer of security that hackers would need to bypass in order to get access to the network. Blockchain provides a much more robust level of encryption that makes it virtually impossible to overwrite existing data records.
+
+Problems related to iot
+
+why blockchain technology with iot
+
+In many distributed applications where trust and transparency are critical factors, the blockchain technology has shown to be a promising solution. The IoT has become the most commonly used and implemented in  various applications such as smart city, banking, self-driving car, healthcare, smart home, and marketing. The implementation of IoT is increased as well as the Vulnerabilities. Those types of applications are important and data regarding to user must be private and secure. When a user use IoT without security techniques that mean their data and privacy will be in the attacker's hands. So that's why Blockchain is introduced.
